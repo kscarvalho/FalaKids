@@ -1,0 +1,154 @@
+.geral {
+  max-height: 1000px;;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  min-width: 375px;
+}
+
+a{
+  width: 80px;
+}
+
+.menu {
+  background: white;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  min-width: 375px;
+  margin: 20px auto;
+}
+
+button{
+ color: #301CA0; 
+ font-size: 16px; 
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: 600;
+ margin-right: 440px;
+ padding: 6px;
+ width: 80px;
+ height: 40px;
+ border-radius: 5px;
+ box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+ border: none;
+}
+
+button:hover {
+  color: #fff;
+  background: #7132CA;
+  cursor: pointer;
+  transition-duration: 0.6s;
+  transform: scale(1.1);
+}
+
+@media (max-width: 1115px) {
+  button{
+    margin-right: 37px;
+  }
+}
+
+@media (max-width: 431px) {
+  button{
+    margin-right: 20px;
+  }
+}
+
+h1 {
+  color:  #fff;
+  background: #7132CA;
+  margin-bottom: 0px ;
+  margin-top: 0px;
+  border-bottom: solid 2px white;
+  margin-left: 440px;
+  padding: 0px 10px 0px 10px;
+  border-radius: 0px 5px 5px 0px;
+  height: 40px;
+}
+
+h1::before{
+  content: "";
+  position: absolute;
+  width: 5px;
+  height: 40px;
+  background: #ffba08;
+  margin-left: -10px;
+}
+
+@media (max-width: 431px) {
+  h1{
+    margin-left: 30px;
+  }
+}
+
+.container-animais {
+  overflow: hidden;
+  display: flex;
+  max-width: 1000px;
+  gap: 60px;
+  background: #C47BE4;
+  flex-wrap: wrap;
+  justify-content: center;
+  border-radius: 5px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+.flex-item {
+  flex: 1;
+  max-width: 140px;
+  text-align: center;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 10px;
+}
+
+img {
+  height: 70px;
+  width: 70px;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+img:hover {
+  transform: rotate(05deg);
+  transition: 1s;
+  
+}
+
+.retangulo {
+  width: 100px;
+}
+
+@media (max-width: 431px) {
+  img {
+    height: 150px;
+    width: 150px;
+  }
+}
+
+
+section {
+  display: flex;
+  justify-content: center;
+}
+
+span {
+  font-size: 12px;
+  letter-spacing: 1px;
+  display: block;
+  text-align: center;
+  margin-top: 5px;
+  color: #ffff;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+}
