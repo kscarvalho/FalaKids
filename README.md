@@ -1,45 +1,61 @@
-<h3>🧠 Projeto de Estímulo à Fala Infantil</h3>
-
-Este projeto foi desenvolvido com o objetivo de auxiliar crianças com dificuldades na fala, utilizando estímulos visuais e auditivos de forma simples, interativa e acessível.
-
-A aplicação apresenta imagens de animais, letras e formas geométricas, e ao interagir com esses elementos, o sistema reproduz o som correspondente, ajudando no desenvolvimento da linguagem e associação entre imagem e fala.
-
-<h3>🚀 Tecnologias Utilizadas</h3>
-
+<div>
+  <h3>🧠 Projeto de Estímulo à Fala Infantil</h3>
+    
+  # <h4>Este projeto foi desenvolvido com o objetivo de auxiliar crianças com dificuldades na fala, utilizando estímulos visuais e auditivos de forma simples, interativa e acessível.
+  
+   A aplicação apresenta imagens de animais, letras e formas geométricas, e ao interagir com esses elementos, o sistema reproduz o som correspondente, ajudando no desenvolvimento da linguagem e associação entre imagem e fala.</h4>
+  
+  
+  # <h3>🚀 Tecnologias Utilizadas</h3>
+  
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
-
-<h3>🎯 Funcionalidades</h3>
-
+    
+  
+  # <h3>🎯 Funcionalidades</h3>
+  
   <li>🔤 Exibição de letras com reprodução de áudio</li>
   <li>🐶 Identificação de animais com som correspondente</li>
   <li>🔺 Reconhecimento de formas geométricas</li>
   <li>🔊 Reprodução de áudio ao clicar nos elementos</li>
   <li>🎨 Interface simples e amigável para crianças</li>
-
-<h3>💡 Objetivo<h3>  
-
-Proporcionar uma ferramenta educativa que contribua para o desenvolvimento da fala infantil, utilizando estímulos visuais e auditivos que facilitam o aprendizado de forma lúdica.
-
-<h3>🧩 Como Funciona</h3>
-
-  <ol></ol>
+  
+  # <h3>💡 Objetivo<h3>  
+  
+  Proporcionar uma ferramenta educativa que contribua para o desenvolvimento da fala infantil, utilizando estímulos visuais e auditivos que facilitam o aprendizado de forma lúdica.
+  
+  
+  # <h3>🧩 Como Funciona</h3>
+  
+  <ol>
     <li>A criança visualiza uma imagem (animal, letra ou forma</li>
     <li>Ao clicar, o sistema reproduz o nome correspondente</li>
     <li>A repetição ajuda na associação e estímulo da fala</li>
   </ol>
-
-<h3>📦 Como Executar o Projeto</h3>
-
-# <h4>Abra na Web</h4>
-  https://kscarvalho.github.io/ajuda-falar/
- <h4>Acesse a pasta</h4>
-  https://github.com/kscarvalho/ajuda-falar/tree/main
- <h4>Abra o arquivo index.html no navegador</h4>
-
-<h3>👨‍💻 Autor</h3>
-  Desenvolvido por Francisco Klebio Furtado de Carvalho
+    
   
+  # <h3>📦 Como Executar o Projeto</h3>
+  
+  # <h4>Abra na Web</h4>
+  https://kscarvalho.github.io/ajuda-falar/
+  <h4>Acesse a pasta</h4>
+  https://github.com/kscarvalho/ajuda-falar/tree/main
+  <h4>Abra o arquivo index.html no navegador</h4>
+  
+  # <h3>👨‍💻 Autor</h3>
+  Desenvolvido por Francisco Klebio Furtado de Carvalho
+    
+  
+  # <h3>🌱 Melhorias Futuras<h3/>  
+  
+  <li>📱 Responsividade para dispositivos móveis</li>
+  <li>🌎 Suporte a múltiplos idiomas</li>
+  <li>🎤 Reconhecimento de voz (para a criança tentar falar)</li>
+  <li>📊 Sistema de progresso da criança</li>
+  <li>🎮 Gamificação (pontuação, recompensas, níveis)</li>
+  <li>🔈 Controle de velocidade e repetição do áudio</li>
+</div>  
+    
 
 
