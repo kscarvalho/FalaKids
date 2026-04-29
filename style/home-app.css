@@ -4,14 +4,28 @@
   font-family: 'Segoe UI', sans-serif;
 }
 
-body {
-   background: linear-gradient(135deg, #6ec6ff, #b3e5fc);
-      height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
+html {
+  display: flex;
+  justify-content: center;
 }
 
+body {
+  display: flex;
+  background: linear-gradient(135deg, #6ec6ff, #b3e5fc);
+  height: 100vh;
+  align-items: center;
+}
+
+nav {
+  display: flex;
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  background: #03AED2;
+  margin-bottom: 10px;
+  border-radius: 30px 30px 0 0 ;
+}
 
 .branco{
   background: #fff;
@@ -21,7 +35,8 @@ ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 50px;
+  gap: 30px;
+  margin: 10px;
 }
 
 li {
@@ -52,7 +67,15 @@ img {
   width: 100px;
 }
 .section-aprenda{
+  margin: 0 auto;
   margin-bottom: 20px;
+  max-width: 375px;
+  height: 610px;
+  background: #fff;
+  margin: 10px;
+  border-radius: 30px;
+  margin: 10 auto;
+  overflow: hidden;  
 }
 
 .section-aprenda ul strong {
@@ -87,3 +110,21 @@ a {
   text-decoration: none;
 }
 
+footer {
+  display: flex;
+  max-width: 610px;
+  justify-content: space-around;
+  padding: 10px;
+  background: #fafafa;
+  border-top: 1px solid #ddd;
+  margin-top: 110px;
+      
+}
+
+button {
+  border: none;
+  padding: 5px;
+  font-weight: 600;
+  padding: 5px;
+  background: 0;
+}
