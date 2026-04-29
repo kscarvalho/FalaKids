@@ -67,10 +67,10 @@ img {
   width: 100px;
 }
 .section-aprenda{
-  margin: 0 auto;
+  /* margin: 0 auto; */
   margin-bottom: 20px;
   max-width: 375px;
-  height: 610px;
+  height: auto;
   background: #fff;
   margin: 10px;
   border-radius: 30px;
@@ -117,8 +117,6 @@ footer {
   padding: 10px;
   background: #fafafa;
   border-top: 1px solid #ddd;
-  margin-top: 110px;
-      
 }
 
 button {
