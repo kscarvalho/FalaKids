@@ -32,7 +32,7 @@ Proporcionar uma ferramenta educativa que contribua para o desenvolvimento da fa
 
 <h3>📦 Como Executar o Projeto</h3>
 
-# <h4>Clone o repositório</h4>
+# <h4>Abra na Web</h4>
   https://kscarvalho.github.io/ajuda-falar/
  <h4>Acesse a pasta</h4>
   cd seu-repositorio
